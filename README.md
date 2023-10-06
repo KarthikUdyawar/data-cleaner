@@ -89,7 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Contact
 
-If you have any questions or comments, please feel free to contact [Karthik-Udyawar](https://github.com/KarthikUdyawar) at [karthikudyawar123@gmail.com](karthikudyawar123@gmail.com
+If you have any questions or comments, please feel free to contact [Karthik-Udyawar](https://github.com/KarthikUdyawar) at [karthikudyawar123@gmail.com](mailto:karthikudyawar123@gmail.com
 ).
 
 ## Acknowledgements
