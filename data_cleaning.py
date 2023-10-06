@@ -43,5 +43,3 @@ if __name__ == "__main__":
     input(
         "Script completed. Additional actions can be performed here. Press Enter to exit"
     )
-
-    # RUN: python D:\Code\python\mini-project\temp-cleaner\data_cleaning.py
