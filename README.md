@@ -1,10 +1,12 @@
 # Cleaning Temporary Files and Prefetch Folder
 
 ![Windows Compatible](https://img.shields.io/badge/Windows-Compatible-blue)
-[![Python Version](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
-[![GitHub License](https://img.shields.io/github/license/KarthikUdyawar/data-cleaner)](https://github.com/KarthikUdyawar/data-cleaner/blob/master/LICENSE)
-[![GitHub Release](https://img.shields.io/github/v/release/KarthikUdyawar/data-cleaner)](https://github.com/KarthikUdyawar/data-cleaner/releases)
-[![GitHub Issues](https://img.shields.io/github/issues/KarthikUdyawar/data-cleaner)](https://github.com/KarthikUdyawar/data-cleaner/issues)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyinstaller)
+![GitHub](https://img.shields.io/github/license/KarthikUdyawar/data-cleaner?link=https%3A%2F%2Fgithub.com%2FKarthikUdyawar%2Fdata-cleaner%2Fblob%2Fmaster%2FLICENSE)
+![GitHub issues](https://img.shields.io/github/issues-raw/KarthikUdyawar/data-cleaner)
+![GitHub all releases](https://img.shields.io/github/downloads/KarthikUdyawar/data-cleaner/total?link=https%3A%2F%2Fgithub.com%2FKarthikUdyawar%2Fdata-cleaner%2Freleases)
+
+
 
 <div align="center">
     <img src="https://github.com/KarthikUdyawar/data-cleaner/blob/master/data_cleaning.png">
