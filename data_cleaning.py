@@ -22,7 +22,15 @@ def run_command(command: str) -> None:
 
 if __name__ == "__main__":
     # Prompt the user to press Enter to continue or 'q' to quit
-    print("🧹 Temporary files, %temp%, and prefetch folder cleaned.")
+    print(
+        """
+        ____        _           ____ _                            
+        |  _ \  __ _| |_ __ _   / ___| | ___  __ _ _ __   ___ _ __ 
+        | | | |/ _` | __/ _` | | |   | |/ _ \/ _` | '_ \ / _ \ '__|
+        | |_| | (_| | || (_| | | |___| |  __/ (_| | | | |  __/ |   
+        |____/ \__,_|\__\__,_|  \____|_|\___|\__,_|_| |_|\___|_|   
+        """
+    )
     print("Press Enter to continue or 'q' to quit.")
     user_input = input()
 

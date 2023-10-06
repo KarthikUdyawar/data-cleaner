@@ -6,6 +6,10 @@
 [![GitHub Release](https://img.shields.io/github/v/release/KarthikUdyawar/data-cleaner)](https://github.com/KarthikUdyawar/data-cleaner/releases)
 [![GitHub Issues](https://img.shields.io/github/issues/KarthikUdyawar/data-cleaner)](https://github.com/KarthikUdyawar/data-cleaner/issues)
 
+<div align="center">
+    <img src="https://github.com/KarthikUdyawar/data-cleaner/blob/master/data_cleaning.png">
+</div>
+
 This Python script allows you to clean temporary files, the `%temp%` directory, and the prefetch folder on a Windows system. It provides a simple way to free up disk space by removing unnecessary files.
 
 ## Table of Contents
@@ -24,6 +28,10 @@ This Python script allows you to clean temporary files, the `%temp%` directory, 
 - [Acknowledgements](#acknowledgements)
 
 ## About The Project
+
+<div align="center">
+    <img src="https://github.com/KarthikUdyawar/data-cleaner/blob/master/Screenshot.png">
+</div>
 
 This script is designed to clean temporary files, which can accumulate on a Windows system over time and consume valuable disk space. It provides a prompt to ensure you want to proceed with the cleanup, giving you the option to abort if necessary.
 
