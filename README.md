@@ -94,5 +94,6 @@ If you have any questions or comments, please feel free to contact [Karthik-Udya
 
 ## Acknowledgements
 
-[Subprocess](https://docs.python.org/3/library/subprocess.html) module for running commands in the Windows command prompt.
-[Python](https://www.python.org/) for providing the scripting language.
+- [Subprocess](https://docs.python.org/3/library/subprocess.html) module for running commands in the Windows command prompt.
+
+- [Python](https://www.python.org/) for providing the scripting language.
