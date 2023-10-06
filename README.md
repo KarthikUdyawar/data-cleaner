@@ -6,8 +6,6 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/KarthikUdyawar/data-cleaner)
 ![GitHub all releases](https://img.shields.io/github/downloads/KarthikUdyawar/data-cleaner/total?link=https%3A%2F%2Fgithub.com%2FKarthikUdyawar%2Fdata-cleaner%2Freleases)
 
-
-
 <div align="center">
     <img src="https://github.com/KarthikUdyawar/data-cleaner/blob/master/data_cleaning.png">
 </div>
