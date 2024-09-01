@@ -14,18 +14,20 @@ This Python script allows you to clean temporary files, the `%temp%` directory, 
 
 ## Table of Contents
 
-- [About The Project](#about-the-project)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Download](#download)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Cleaning Temporary Files and Prefetch Folder](#cleaning-temporary-files-and-prefetch-folder)
+  - [Table of Contents](#table-of-contents)
+  - [About The Project](#about-the-project)
+    - [Built With](#built-with)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Usage](#usage)
+    - [Download](#download)
+  - [Roadmap](#roadmap)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+  - [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -55,10 +57,10 @@ To get started with this script, follow the instructions below.
 
 ## Usage
 
-1. Run the script in a Windows command prompt.
+1. Run the script in a admin terminal.
 
-    ```cmd
-    python cleanup_script.py
+    ```powershell
+    python data_cleaning.py
     ```
 
 2. The script will prompt you to press Enter to continue or 'q' to quit.
